@@ -1,0 +1,10 @@
+//Custom Classes {Desktop}
+@media (min-width:781px) {
+    .mobile-only {
+        display: none !important;
+    }
+
+    .desktop-only {
+        display: unset !important;
+    }
+}
